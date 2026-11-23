@@ -6,7 +6,7 @@
  * lienzo. Si algo falla dentro, se retira sola para no dejar la pantalla tapada.
  */
 
-const MARCADORES = ["Animacion_Muneca_15112026_-_frame_at_0m12s"]
+const MARCADORES = ["Animacion_Muneca_15112026_-_frame_at_0m12s","Acuario_Animado_con_cositas_nuevas_1_-_frame_at_0m14s","C_SOLO_FONDO_LAGO_2_-_frame_at_0m6s"]
 
 /**
  * Cuenta las descargas en curso de archivos del proyecto (assets/ o blobs) para

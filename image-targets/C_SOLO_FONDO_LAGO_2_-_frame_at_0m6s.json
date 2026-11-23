@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/C_SOLO_FONDO_LAGO_2_-_frame_at_0m6s_luminance.png",
+  "resources": {
+    "originalImage": "C_SOLO_FONDO_LAGO_2_-_frame_at_0m6s_original.png",
+    "croppedImage": "C_SOLO_FONDO_LAGO_2_-_frame_at_0m6s_cropped.png",
+    "thumbnailImage": "C_SOLO_FONDO_LAGO_2_-_frame_at_0m6s_thumbnail.png",
+    "luminanceImage": "C_SOLO_FONDO_LAGO_2_-_frame_at_0m6s_luminance.png"
+  },
+  "name": "C_SOLO_FONDO_LAGO_2_-_frame_at_0m6s",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 240,
+    "left": 0,
+    "width": 1080,
+    "height": 1440,
+    "isRotated": false,
+    "originalWidth": 1080,
+    "originalHeight": 1920
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795403167940,
+  "updated": 1795403167940
+}

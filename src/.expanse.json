@@ -29,6 +29,34 @@
         1
       ]
     },
+    "25ca2dbd-e1ad-4119-92b4-7d6a8ef6b3d7": {
+      "components": {},
+      "geometry": null,
+      "id": "25ca2dbd-e1ad-4119-92b4-7d6a8ef6b3d7",
+      "imageTarget": {
+        "name": "C_SOLO_FONDO_LAGO_2_-_frame_at_0m6s"
+      },
+      "material": null,
+      "name": "Marcador · C_SOLO_FONDO_LAGO_2_-_frame_at_0m6s",
+      "order": 5.5,
+      "parentId": "11b8665d-b8c6-4bb0-8683-1f835216d273",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
     "2e0ad904-8823-4b64-bb9c-d7d4fc5d3ce2": {
       "camera": {
         "type": "perspective",
@@ -151,6 +179,62 @@
         "paused": false
       }
     },
+    "8950475d-130a-4ad4-b3e0-bb9808887db6": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.598,
+            "demora": 0,
+            "esGltf": false,
+            "esTextura": true,
+            "esVideo": true
+          }
+        }
+      },
+      "geometry": {
+        "type": "plane",
+        "width": 4,
+        "height": 4
+      },
+      "id": "8950475d-130a-4ad4-b3e0-bb9808887db6",
+      "material": {
+        "type": "video",
+        "color": "#ffffff",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/C_SOLO_FONDO_LAGO_2.mp4"
+        },
+        "inreMaterial": "C_SOLO_FONDO_LAGO_2"
+      },
+      "name": "Plano copia copia",
+      "order": 0.7630783062603608,
+      "parentId": "25ca2dbd-e1ad-4119-92b4-7d6a8ef6b3d7",
+      "position": [
+        0,
+        1.734723475976807e-18,
+        0.009000000000000001
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1.0000000000000002
+      ],
+      "scale": [
+        0.14,
+        0.248,
+        0.14
+      ],
+      "shadow": {
+        "receiveShadow": true
+      },
+      "videoControls": {
+        "loop": true,
+        "paused": false
+      }
+    },
     "af7a702e-9e94-4598-90b3-a8428ed203c8": {
       "components": {},
       "geometry": null,
@@ -167,6 +251,90 @@
         20,
         50,
         10
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ]
+    },
+    "e242d933-20cb-4671-894b-05ed181ad6e4": {
+      "components": {
+        "__inre_aparicion__": {
+          "id": "__inre_aparicion__",
+          "name": "inre-aparicion",
+          "parameters": {
+            "cubo": 0.598,
+            "demora": 0,
+            "esGltf": false,
+            "esTextura": true,
+            "esVideo": true
+          }
+        }
+      },
+      "geometry": {
+        "type": "plane",
+        "width": 4,
+        "height": 4
+      },
+      "id": "e242d933-20cb-4671-894b-05ed181ad6e4",
+      "material": {
+        "type": "video",
+        "color": "#ffffff",
+        "textureSrc": {
+          "type": "asset",
+          "asset": "assets/Acuario_Animado_con_cositas_nuevas_1.mp4"
+        },
+        "inreMaterial": "Acuario_Animado_con_cositas_nuevas_1"
+      },
+      "name": "Plano copia",
+      "order": 0.7316741173890323,
+      "parentId": "f771d18f-3c2d-479d-8629-80365ff2cdd3",
+      "position": [
+        0,
+        1.734723475976807e-18,
+        0.009000000000000001
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1.0000000000000002
+      ],
+      "scale": [
+        0.14,
+        0.248,
+        0.14
+      ],
+      "shadow": {
+        "receiveShadow": true
+      },
+      "videoControls": {
+        "loop": true,
+        "paused": false
+      }
+    },
+    "f771d18f-3c2d-479d-8629-80365ff2cdd3": {
+      "components": {},
+      "geometry": null,
+      "id": "f771d18f-3c2d-479d-8629-80365ff2cdd3",
+      "imageTarget": {
+        "name": "Acuario_Animado_con_cositas_nuevas_1_-_frame_at_0m14s"
+      },
+      "material": null,
+      "name": "Marcador · Acuario_Animado_con_cositas_nuevas_1_-_frame_at_0m14s",
+      "order": 4.5,
+      "parentId": "11b8665d-b8c6-4bb0-8683-1f835216d273",
+      "position": [
+        0,
+        0,
+        0
       ],
       "rotation": [
         0,

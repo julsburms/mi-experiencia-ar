@@ -1,0 +1,27 @@
+{
+  "imagePath": "image-targets/Acuario_Animado_con_cositas_nuevas_1_-_frame_at_0m14s_luminance.png",
+  "resources": {
+    "originalImage": "Acuario_Animado_con_cositas_nuevas_1_-_frame_at_0m14s_original.png",
+    "croppedImage": "Acuario_Animado_con_cositas_nuevas_1_-_frame_at_0m14s_cropped.png",
+    "thumbnailImage": "Acuario_Animado_con_cositas_nuevas_1_-_frame_at_0m14s_thumbnail.png",
+    "luminanceImage": "Acuario_Animado_con_cositas_nuevas_1_-_frame_at_0m14s_luminance.png"
+  },
+  "name": "Acuario_Animado_con_cositas_nuevas_1_-_frame_at_0m14s",
+  "type": "PLANAR",
+  "metadata": null,
+  "moveable": false,
+  "physicalWidthInMeters": null,
+  "properties": {
+    "top": 240,
+    "left": 0,
+    "width": 1080,
+    "height": 1440,
+    "isRotated": false,
+    "originalWidth": 1080,
+    "originalHeight": 1920
+  },
+  "userMetadataIsJson": true,
+  "loadAutomatically": true,
+  "created": 1795403077228,
+  "updated": 1795403077228
+}
